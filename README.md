@@ -51,4 +51,12 @@
 ---
 
 ## 📂 Folder Structure
+ECOMMERCE_PROJECT/
+│
+├── admin/ # Admin dashboard React app
+├── backend/ # Node.js backend API
+├── frontend/ # Main client-side React app
+├── .gitignore
+├── .gitattributes
+└── README.md
 
