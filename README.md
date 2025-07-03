@@ -1,6 +1,6 @@
 # 🛒 ECOMMERCE_PROJECT
 
-![Owner](https://avatars.githubusercontent.com/u/your-github-user-id?v=4)  
+
 📁 **Repository:** `Adarshkumarjha001/ECOMMERCE_PROJECT`  
 🧑‍💻 Developed by [Adarsh Kumar Jha](https://github.com/Adarshkumarjha001)
 
